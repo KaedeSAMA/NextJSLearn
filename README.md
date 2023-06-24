@@ -1,2 +1,1 @@
-# NextJSLearn
-学习Next.js的小仓库
+# 学习Next.js的项目
